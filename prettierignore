@@ -1,0 +1,18 @@
+# VSCode settings
+.vscode/
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+*.env
+.env
+.env.*
+
+# Prettier config files (optional if you don’t want them formatted)
+.prettierrc
+.prettierrc.js
+.prettierrc.json
